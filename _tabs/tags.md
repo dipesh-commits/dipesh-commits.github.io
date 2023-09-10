@@ -11,7 +11,7 @@ Waste is a wealth in a wrong place. Our research focuses on analyzing possibilit
 *
 
 
-### Age Range Estimation Using MTCNN and VGG-Face Model
+H2 - Age Range Estimation Using MTCNN and VGG-Face Model
 *
 The Convolutional Neural Network has amazed us with its usage on several applications. Age range estimation using CNN is emerging due to its application in myriad of areas which makes it a state-of-the-art area for research and improve the estimation accuracy. A deep CNN model is used for identification of people's age range in our proposed work. At first, we extracted only face images from image dataset using MTCNN to remove unnecessary features other than face from the image. Secondly, we used random crop technique for data augmentation to improve the model performance. We have used the concept of transfer learning in our research. A pretrained face recognition model i.e VGG-Face is used to build our model for identification of age range whose performance is evaluated on Adience Benchmark for confirming the efficacy of our work. The performance in test set outperformed existing state-of-the-art by substantial margins.
 *
