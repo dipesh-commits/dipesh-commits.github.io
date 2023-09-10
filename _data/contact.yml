@@ -11,7 +11,7 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
+  type: google-scholar
   icon: 'fas fa-rss'
   noblank: true
 
