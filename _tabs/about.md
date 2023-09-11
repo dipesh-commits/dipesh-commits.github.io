@@ -46,6 +46,6 @@ Hi! I am Dipesh Gyawali. I am currently studying Master's in Computer Science at
 
 
 **Email**: dipesh9393@gmail.com\
-**Github**: [title](www.github.com/dipesh-commits)\
-**LinkedIn**: [title](www.linkedin.com/dipeshgyawali)\
+**Github**: [title](https://www.github.com/dipesh-commits)\
+**LinkedIn**: [title](https://www.linkedin.com/dipesh-gyawali)\
 **Google Scholar:** [title](https://scholar.google.com/citations?user=yY_lCQIAAAAJ&hl=en)
