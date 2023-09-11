@@ -45,7 +45,7 @@ Hi! I am Dipesh Gyawali. I am currently studying Master's in Computer Science at
   3. Synthesized 2D image data for weapon identification and performed real-time weapon detection on videos from YOLOv3.
 
 
-**Email**: dipesh9393@gmail.com\
+**Email**: [dipesh9393@gmail.com](mailto:dipesh9393@gmail.com)\
 **Github**: [title](https://www.github.com/dipesh-commits)\
 **LinkedIn**: [title](https://www.linkedin.com/dipesh-gyawali)\
 **Google Scholar:** [title](https://scholar.google.com/citations?user=yY_lCQIAAAAJ&hl=en)
